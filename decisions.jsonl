@@ -1,0 +1,4 @@
+{"ts": 1756021823.9481802, "symbol": "EURUSD", "ai_recommendation": "SELL[3][5]", "ai_confidence": 60, "tech_recommendation": "WAIT", "final_decision": "WAIT", "dry_run": false}
+{"ts": 1756021860.8500204, "symbol": "EURUSD", "ai_recommendation": "NEUTRAL", "ai_confidence": 75, "tech_recommendation": "WAIT", "final_decision": "WAIT", "dry_run": false}
+{"ts": 1756021883.089088, "symbol": "EURUSD", "ai_recommendation": "NEUTRAL", "ai_confidence": 70, "tech_recommendation": "WAIT", "final_decision": "WAIT", "dry_run": false}
+{"ts": 1756021964.8493762, "symbol": "EURUSD", "ai_recommendation": "NEUTRAL", "ai_confidence": 75, "tech_recommendation": "WAIT", "final_decision": "WAIT", "dry_run": false}
